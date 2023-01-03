@@ -1,27 +1,400 @@
 {
-  
-  "Cart":[
-{"img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/233/medium/HONDA_ACTIVA_5G.png?1660731811",
-"name":"HondaActiva 5G",
+  "Cart": [
+    {
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/233/medium/HONDA_ACTIVA_5G.png?1660731811",
+      "name": "HondaActiva 5G",
+      "pickupdate": "04 jan 2023",
+      "pickupTime": "10:00 am",
+      "dropoffdate": "04 jan 2023",
+      "dropoffTime": "01:00 pm",
+      "price": "650"
+    }
+  ],
+  "Products": [
+    {
+      "name": "Hero Pleasure Plus",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/338/medium/HERO_PLEASURE_PLUS.png?1660655867",
+      "price": 343,
+      "id": 1
+    },
+    {
+      "name": "Honda Activa 5G",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/233/medium/HONDA_ACTIVA_5G.png?1660731811",
+      "price": 441,
+      "id": 2
+    },
+    {
+      "name": "Suzuki Access 125",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/001/medium/SUZUKI_ACCESS_125.png?1660719780",
+      "price": 465,
+      "id": 3
+    },
+    {
+      "name": "Honda Dio",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/035/medium/HONDA_DIO.png?1660722410",
+      "price": 465,
+      "id": 4
+    },
+    {
+      "name": "Honda Activa 6G",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/272/medium/Activa-6G.png?1666077785",
+      "price": 465,
+      "id": 5
+    },
+    {
+      "name": "Hero Pleasure Plus",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/338/medium/HERO_PLEASURE_PLUS.png?1660655867",
+      "price": 343,
+      "id": 1
+    },
+    {
+      "name": "Honda Dio (BS6)",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/308/medium/HONDA_DIO_BS6.png?1660734795",
+      "price": 347,
+      "id": 6
+    },
+    {
+      "name": "Hero Pleasure Plus",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/338/medium/HERO_PLEASURE_PLUS.png?1660655867",
+      "price": 343,
+      "id": 7
+    },
+    {
+      "name": "Hero Honda 6G",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/272/medium/Activa-6G.png?1666077785",
+      "price": 443,
+      "id": 8
+    },
+    {
+      "name": "Honda Dio (BS6)",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/308/medium/HONDA_DIO_BS6.png?1660734795",
+      "price": 457,
+      "id": 9
+    },
+    {
+      "name": "Hero Pleasure Plus",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/338/medium/HERO_PLEASURE_PLUS.png?1660655867",
+      "price": 343,
+      "id": 10
+    },
+    {
+      "name": "Suzuki Access 125(BS6)",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/328/medium/SUZUKI_ACCESS_125_%28BS6%29.png?1660735528",
+      "price": 453,
+      "id": 11
+    },
+    {
+      "name": "TVS juiter 125",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/343/medium/TVS_Jupiter_125.png?1666078032",
+      "price": 456,
+      "id": 12
+    },
+    {
+      "name": "Hero Pleasure Plus",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/338/medium/HERO_PLEASURE_PLUS.png?1660655867",
+      "price": 349,
+      "id": 13
+    },
+    {
+      "name": "Aprilia SR (ABS )",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/234/medium/APRILIA_SR_125.png?1660735224",
+      "price": 529,
+      "id": 14
+    },
+    {
+      "name": "Suzuki Avenis 125",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/332/medium/SUZUKI_AVENIS.png?1660656248",
+      "price": 573,
+      "id": 15
+    },
+    {
+      "name": "Aprilia SR 160(ABS )",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/315/medium/APRILIA_SR_160_ABS_%28BS6%29.png?1660734985",
+      "price": 600,
+      "id": 16
+    },
 
-"pickupdate":"04 jan 2023",
-"pickupTime":"10:00 am",
-"dropoffdate":"04 jan 2023",
-"dropoffTime":"01:00 pm",
-"price":"650"
+    {
+      "name": "Ather 450X",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/327/medium/ATHER_450X.png?1660727100",
+      "price": 643,
+      "id": 17
+    },
+    {
+      "name": "Yamaha Aerox",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/333/medium/YAMAHA_AEROX.png?1660656218",
+      "price": 623,
+      "id": 18
+    },
+    {
+      "name": "Bajaj Pulsar",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/247/medium/Bajaj_Pulsar_150_neon.png?1660829851",
+      "price": 690,
+      "id": 19
+    },
+    {
+      "name": "Honda CB hornet 160",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/151/medium/HONDA_HORNET_160.png?1660730840",
+      "price": 743,
+      "id": 20
+    },
+    
+    {
+      "name": "Yamaha FZ V3(BS6)",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/287/medium/YAMAHA_FZ_V3_%28BS_6%29.png?1660727848",
+      "price": 768,
+      "id": 21
+    },
+    {
+      "name": "Bajaj Pulsar 150 Neon (BS6)" ,
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/295/medium/BAJAJ_PULSAR_150_NEON_BS6.png?1660734295",
+      "price": 793,
+      "id": 22
+    },
+    {
+      "name": "Honda X Blade",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/267/medium/HONDA_X-BLADE.png?1660733037",
+      "price": 828,
+      "id": 23
+    },
+    {
+      "name": "Yamaha FZ V3(BS6)",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/248/medium/YAMAHA_FZ_V3.png?1660732450",
+      "price": 863,
+      "id": 24
+    },
+    {
+      "name": "Honda X Blade",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/310/medium/HONDA_X-BLADE_%28BS6%29.png?1660731412",
+      "price": 851,
+      "id": 25
+    },
+    {
+      "name": "Suzuki Gixer 150",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/291/medium/SUZUKI_GIXXER_150.png?1660728312",
+      "price": 888,
+      "id": 26
+    },
+    {
+      "name": "Bajaj Avenger Cruise 220",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/320/medium/AVENGER_CRUISE_220_%28BS6%29.png?1660734515",
+      "price": 912,
+      "id": 27
+    },
+    {
+      "name": "Honda hornet 2.0",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/296/medium/HONDA_HORNET_2.0.png?1660734324",
+      "price": 929,
+      "id": 28
+    },
+    {
+      "name": "Tvs Apache RTR 180",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/317/medium/TVS_APACHE_RTR_180_%28BS6%29.png?1660728065",
+      "price": 1020,
+      "id": 29
+    },
+    {
+      "name": "Bajaj Pulsar 250 Neon (BS6)",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/321/medium/BAJAJ_PULSAR_250N.png?1660735126",
+      "price": 1030,
+      "id": 30
+    },
+    {
+      "name": "Tvs Apache RTR 160 4V",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/243/medium/TVS_APACHE_RTR_160_V4.png?1660805298",
+      "price": 1039,
+      "id": 32
+    },
+    {
+      "name": "Bajaj Pulsar 250F  (BS6)",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/318/medium/BAJAJ_PULSAR_250F.png?1660734695",
+      "price": 1143,
+      "id": 33
+    },
+    {
+      "name": "Yamaha MT15 V3(BS6)",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/340/medium/YAMAHA_MT-15__BS6.png?1660655626",
+      "price": 1127,
+      "id": 34
+    },
+    {
+      "name": "Suzuki Gixer SF 150",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/351/medium/gixxer_150_sf.png?1671621134",
+      "price": 1200,
+      "id": 35
+    },
+    {
+      "name": "Hero XPlus",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/314/medium/HERO_X-PULSE_BS6.png?1660734621",
+      "price": 1224,
+      "id": 36
+    },
+    {
+      "name": "Royal Enfield  350 Reddtich",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/253/medium/ROYAL_ENFIELD_CLASSIC_350_REDDITCH.png?1660802606",
+      "price": 1289,
+      "id": 37
+    },
+    {
+      "name": "Royal Enfield Classic 350 ",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/274/medium/ROYAL_ENFIELD_CLASSIC_350_%28BS6%29.png?1660736086",
+      "price": 1343,
+      "id": 38
+    },
+    {
+      "name": "KTM Duke 200 ",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/285/medium/KTM_DUKE_200_BS6.png?1660733339",
+      "price": 1399,
+      "id": 39
+    },
+
+    {
+      "name": "Royal Enfield Hunter 350 ",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/344/medium/New_Project.jpg?1663164498",
+      "price": 1440,
+      "id": 40
+    },
+    {
+      "name": "Hero X-Plus Rally",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/348/medium/X-pulse-%D9%8CRally-Edition--Backend1.png?1668410722",
+      "price": 1443,
+      "id": 41
+    },
+    {
+      "name": "Yamaha R15 (BS6)",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/339/medium/YAMAHA_R15_BS6.png?1660727394",
+      "price": 1453,
+      "id": 42
+    },
+    {
+      "name": "Suzuki V-Strom 250",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/335/medium/SUZUKI_V-STORM_250.png?1660656133",
+      "price": 1630,
+      "id":43
+    },
+    
+    {
+      "name": "Royal Enfield Meteor 350 ",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/280/medium/ROYAL_ENFIELD_METEOR_350_FIREBALL.png?1660729122",
+      "price":1643,
+      "id": 44
+    },
+    {
+      "name": "Bajaj Dominnar 400 ",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/284/medium/BAJAJ_DOMINOR_400_V2.png?1660736405",
+      "price": 1729,
+      "id": 45
+    },
+    {
+      "name": "KTM 250 Adventure",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/334/medium/KTM_250_ADVENTURE.png?1660656163",
+      "price": 1924,
+      "id": 46
+    },
+    {
+      "name": "Yezadi Roadster",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/337/medium/Yezdi_Roadster.png?1660831674",
+      "price": 1930,
+      "id": 47
+    },
+    {
+      "name": "Yezadi Adventure",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/342/medium/YEZDI_-_ADVENTURE.png?1660831638",
+      "price": 1992,
+      "id": 48
+    },
+    {
+      "name": "Royal Enfield Continentol GT 650",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/239/medium/Royal_Enfield_Continental_GT_650.png?1660830000",
+      "price": 2143,
+      "id": 49
+    },
+    {
+      "name": "BMW G310 ",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/282/medium/BMW_G310_GS_%28BS_6%29.png?1660733587",
+      "price": 2729,
+      "id": 50
+    },
+    {
+      "name": "BMW G310RR",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/352/medium/310.png?1671703589",
+      "price": 2700,
+      "id": 51
+    },
+    {
+      "name": "BMW G310 ",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/354/medium/310R-BMW_%281%29.png?1672321477",
+      "price": 2840,
+      "id": 52
+    },
+    {
+      "name": "Suzuki Gixer 250",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/293/medium/SUZUKI_GIXXER_250SF.png?1660728592",
+      "price": 1389,
+      "id": 53
+    },
+    {
+      "name": "Royal Enfield  350 ",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/273/medium/ROYAL_ENFIELD_HIMALAYAN_BS6.png?1660730396",
+      "price": 2343,
+      "id":54
+    },
+    {
+      "name": "Yamaha FZ V3",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/248/medium/YAMAHA_FZ_V3.png?1660732450",
+      "price": 2399,
+      "id": 55
+    },
+
+    {
+      "name": "Honda CB 200X",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/304/medium/HONDA_CB_200X.png?1660731823",
+      "price": 3440,
+      "id": 56
+    },
+    {
+      "name": "KTM Duke 250 ",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/285/medium/KTM_DUKE_200_BS6.png?1660733339",
+      "price": 3493,
+      "id": 57
+    },
+    {
+      "name": "Bajaj Dominnar 400",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/284/medium/BAJAJ_DOMINOR_400_V2.png?1660736405",
+      "price": 2483,
+      "id": 58
+    },
+    {
+      "name": "Yamaha MT15 V2",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/340/medium/YAMAHA_MT-15__BS6.png?1660655626",
+      "price": 3630,
+      "id":59
+    },
+    
+    {
+      "name": "Yezadi Adventure 400",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/342/medium/YEZDI_-_ADVENTURE.png?1660831638",
+      "price":5643,
+      "id": 60
+    }
 
 
 
-}
+
+
+
+
+
+
+
+
+
 
 
   ],
-  "Products":[
-
-  ],
-  "login":[
-
-]
+  "login": [
 
 
+
+  ]
 }
