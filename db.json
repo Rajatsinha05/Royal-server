@@ -12,27 +12,41 @@
   ],
   "Products": [
     {
-      "name": "Hero Pleasure Plus",
-      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/338/medium/HERO_PLEASURE_PLUS.png?1660655867",
-      "price": 343,
+      
+      
+      
+      "name": "Yezadi Adventure 400",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/342/medium/YEZDI_-_ADVENTURE.png?1660831638",
+      "price":5643,
+     
       "id": 1
     },
     {
-      "name": "Honda Activa 5G",
-      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/233/medium/HONDA_ACTIVA_5G.png?1660731811",
-      "price": 441,
+      
+        "name": "KTM Duke 250 ",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/285/medium/KTM_DUKE_200_BS6.png?1660733339",
+      "price": 3493,
+      
+     
       "id": 2
     },
     {
-      "name": "Suzuki Access 125",
-      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/001/medium/SUZUKI_ACCESS_125.png?1660719780",
-      "price": 465,
+      
+      
+       "name": "Royal Enfield  350 ",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/273/medium/ROYAL_ENFIELD_HIMALAYAN_BS6.png?1660730396",
+      "price": 2343,
+      
+     
       "id": 3
     },
     {
-      "name": "Honda Dio",
-      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/035/medium/HONDA_DIO.png?1660722410",
-      "price": 465,
+      
+       "name": "BMW G310 ",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/354/medium/310R-BMW_%281%29.png?1672321477",
+      "price": 2840,
+      
+     
       "id": 4
     },
     {
@@ -322,9 +336,9 @@
       "id": 51
     },
     {
-      "name": "BMW G310 ",
-      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/354/medium/310R-BMW_%281%29.png?1672321477",
-      "price": 2840,
+      "name": "Honda Dio",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/035/medium/HONDA_DIO.png?1660722410",
+      "price": 465,
       "id": 52
     },
     {
@@ -334,9 +348,9 @@
       "id": 53
     },
     {
-      "name": "Royal Enfield  350 ",
-      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/273/medium/ROYAL_ENFIELD_HIMALAYAN_BS6.png?1660730396",
-      "price": 2343,
+      "name": "Suzuki Access 125",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/001/medium/SUZUKI_ACCESS_125.png?1660719780",
+      "price": 465,
       "id":54
     },
     {
@@ -353,9 +367,9 @@
       "id": 56
     },
     {
-      "name": "KTM Duke 250 ",
-      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/285/medium/KTM_DUKE_200_BS6.png?1660733339",
-      "price": 3493,
+     "name": "Honda Activa 5G",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/233/medium/HONDA_ACTIVA_5G.png?1660731811",
+      "price": 441,
       "id": 57
     },
     {
@@ -372,9 +386,9 @@
     },
     
     {
-      "name": "Yezadi Adventure 400",
-      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/342/medium/YEZDI_-_ADVENTURE.png?1660831638",
-      "price":5643,
+       "name": "Hero Pleasure Plus",
+      "img": "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/338/medium/HERO_PLEASURE_PLUS.png?1660655867",
+      "price": 343,
       "id": 60
     }
 
